@@ -4,3 +4,4 @@
 # JavaScript-4-ArrayCardioDay1TrEng
 
 <hr>
+# Psst: have a look at the JavaScript Console
